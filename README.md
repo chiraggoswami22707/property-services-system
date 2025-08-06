@@ -124,4 +124,8 @@ To build a seamless platform like Amazon/Zomato that simplifies:
 - 📤 Email/SMS via Firebase or Cron Jobs
 
 Made by Chirag and  Amit 
+### 📐 Figma Designs
+[View UI Designs] 
+https://www.figma.com/make/3x3AcLRYxRAl2HZ3yqdzdX/Property-Management-System-with-Multiple-Screens?node-id=0-4&t=la3SUw3SGROL3i3h-1
+
 
