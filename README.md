@@ -123,14 +123,5 @@ To build a seamless platform like Amazon/Zomato that simplifies:
 - 🧠 Chatbot for instant help
 - 📤 Email/SMS via Firebase or Cron Jobs
 
----
+Made by Chirag and  Amit 
 
-## 🙌 Credits
-
-Made with ❤️ by [Your Name]
-
----
-
-## 📌 License
-
-This project is licensed under the MIT License.
